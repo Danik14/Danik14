@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Go Background](https://raw.githubusercontent.com/Danik14/Danik14/main/Go_Background.jpeg)
