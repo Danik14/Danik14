@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniyar</h1>
-<h3 align="center">A passionate Go developer from Kazakhstan</h3>
+<h3 align="center">A passionate Software Engineer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danik14&label=Profile%20views&color=0e75b6&style=flat" alt="danik14" /> </p>
 
